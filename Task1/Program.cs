@@ -6,7 +6,7 @@ namespace Task1 {
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите путь к папке, которую хотите очистить");
+            Console.WriteLine("Введите путь к папке, которую хотите очистить:");
             string FolderPath = Console.ReadLine();
 
             try
